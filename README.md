@@ -109,5 +109,10 @@ Applied across all visuals (Bookings / Revenue / Distance)
 ---
 ## 🖼 6. Snapshorts Of The Dashboard
 
-![Dashboard Screenshot](https://github.com/Akshat-Shailendra-Trivedi/Uber-Trip-Analysis/blob/main/Snapshort%20of%20dashboard.png)
+### Dashboard Overview
+![Dashboard Screenshot 1](https://github.com/Akshat-Shailendra-Trivedi/Uber-Trip-Analysis/blob/main/Snapshort%20of%20dashboard.png)
+
+### Time & Details View
+![Dashboard Screenshot 2](https://github.com/Akshat-Shailendra-Trivedi/Uber-Trip-Analysis/blob/main/Snapshort%20of%20dashboard%202.png)
+
 
