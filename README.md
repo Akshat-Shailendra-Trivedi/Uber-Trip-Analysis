@@ -107,10 +107,7 @@ Applied across all visuals (Bookings / Revenue / Distance)
 ✔ Better planning and decision-making  
 
 ---
+## 🖼 6. Snapshorts Of The Dashboard
 
-## 🖼 6. Screenshots / Demo
+![Dashboard Screenshot](https://github.com/Akshat-Shailendra-Trivedi/Uber-Trip-Analysis/blob/main/Snapshort%20of%20dashboard.png)
 
-> Add dashboard screenshots here
-
-Example:  
-![Dashboard Overview](https://github.com/username/repo/assets/preview.png)
